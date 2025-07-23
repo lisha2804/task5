@@ -20,6 +20,6 @@ A responsive homepage built using HTML, CSS, and JavaScript, focused on enhancin
 
 ### Mobile View
 
-![Mobile Screenshot](images/mobview.jpeg)
+![Mobile Screenshot](images/mobview.png)
 
 ---
