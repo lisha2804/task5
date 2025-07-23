@@ -7,7 +7,7 @@ A responsive homepage built using HTML, CSS, and JavaScript, focused on enhancin
 
 # Live Demo
 
-[🔗 View Live](https://lisha2804.github.io/task5/)
+[View Live](https://lisha2804.github.io/task5/)
 
 ---
 
