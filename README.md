@@ -7,7 +7,7 @@ A responsive homepage built using HTML, CSS, and JavaScript, focused on enhancin
 
 # Live Demo
 
-[🔗 View Live]( )
+[🔗 View Live](https://lisha2804.github.io/task5/)
 
 ---
 
@@ -16,12 +16,10 @@ A responsive homepage built using HTML, CSS, and JavaScript, focused on enhancin
 
 ### Desktop View
 
-![Desktop Screenshot](images/ss1.png)
-![Desktop Screenshot](images/ss2.png)
+![Desktop Screenshot](images/desktopview.jpeg)
 
 ### Mobile View
 
-![Mobile Screenshot](images/mob3.png)
-![Mobile Screenshot](images/mob2.png)
+![Mobile Screenshot](images/mobileview.png)
 
 ---
