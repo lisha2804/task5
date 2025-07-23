@@ -16,10 +16,10 @@ A responsive homepage built using HTML, CSS, and JavaScript, focused on enhancin
 
 ### Desktop View
 
-![Desktop Screenshot](images/desktopview.jpeg)
+![Desktop Screenshot](images/desktopview.png)
 
 ### Mobile View
 
-![Mobile Screenshot](images/mobileview.png)
+![Mobile Screenshot](images/mobileview.jpeg)
 
 ---
